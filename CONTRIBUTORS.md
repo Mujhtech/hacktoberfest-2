@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+#### Name: [MUJHTECH](https://github.com/mujhtech)
+- Place: Oyo, Nigeria
+- Bio: Web developer PHP and Javascript
+- Github: [MUJHTECH](https://github.com/mujhtech)
+
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
